@@ -3,7 +3,7 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![kodluyoruz](https://resimag.com/p1/b80e1f8ece5f.png) 
+![kodluyoruz](https://resimag.com/p1/ed6637a647f0.png) 
 
 
 #Installation
